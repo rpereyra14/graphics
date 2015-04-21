@@ -5,6 +5,12 @@ Overview:
 
 To generate a small sample scene by controlling parameters found in ImageDriver.cpp
 
+Output:
+
+@see output.png
+@see output_antialiasing.png
+
+Note: Antialising is essentially a pixel smoothening so that edges between objects in the scene look smooth, particularly spherical or curved edges.
 
 ---------------------------------------------------------------------------------------
 
