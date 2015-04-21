@@ -1,6 +1,11 @@
 Renato Pereyra
 COMP 575 PA4 README
 
+Overview:
+
+To generate a small sample scene by controlling parameters found in ImageDriver.cpp
+
+
 ---------------------------------------------------------------------------------------
 
 Compilation and Execution
